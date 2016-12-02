@@ -12,7 +12,7 @@
 ### 1. Create a GitHub Account
 Create a GitHub account [here](https://www.github.com/join)
 
-### 2. Install HomeBrew and Git 
+### 2. Install HomeBrew and Git
 #### MAC User
 If a Mac user then you need to open your terminal. After that you should install [HomeBrew](http://brew.sh/) which you can do with the following command. HomeBrew is going to allow us to install additional things that are not included with the Mac OS. It will be our way to install Git.
 
@@ -42,11 +42,10 @@ If you are on a Windows machine then I suggest using [GitBash](https://www.git-s
 ### 3. SSH Key
 We now have Git installed and a GitHub account, but we do not have a bridge connecting the two.  That is what we are going to do next through an `SSH key`.
 
-Log back in to GitHub and click over to your settings.
+#### Generate SSH Key
+Your first step is to [generate a new SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/).  If you follow the steps in this link then you should get everything created locally.
 
+#### Add SSH Key to GitHub
+Your next step is to [add the key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/).  This link should help with the second step of this process.
 
-
-
-
-
-
+_(This process can be intimidating at first but just be sure to read over the directions and follow each step.  Ask for help if you need it!)_
