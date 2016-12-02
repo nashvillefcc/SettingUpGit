@@ -6,8 +6,8 @@
   * [Create GitHub Account](https://github.com/nashvillefcc/SettingUpGit#user-content-1-create-a-github-account)
   * [Installing Git](https://github.com/nashvillefcc/SettingUpGit#user-content-2-install-homebrew-and-git)
 * [Setting SSH Key](https://github.com/nashvillefcc/SettingUpGit#user-content-3-ssh-key)
-  * [Generate SSH Key](https://github.com/nashvillefcc/SettingUpGit#generate-ssh-key)
-  * [Add SSH Key to GitHub](https://github.com/nashvillefcc/SettingUpGit#add-ssh-key-to-github)
+  * [Generate SSH Key](https://github.com/nashvillefcc/SettingUpGit#user-content-4-generate-ssh-key)
+  * [Add SSH Key to GitHub](https://github.com/nashvillefcc/SettingUpGit#user-content-5-add-ssh-key-to-github)
 
 ## Getting Started
 
