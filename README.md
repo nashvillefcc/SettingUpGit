@@ -51,3 +51,11 @@ Your first step is to [generate a new SSH key](https://help.github.com/articles/
 Your next step is to [add the key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/).  This link should help with the second step of this process.
 
 _(This process can be intimidating at first but just be sure to read over the directions and follow each step.  Ask for help if you need it!)_
+
+### Test SSH
+Next we can do a quick test in the terminal to see if we can connect to GitHub by typing the following into your terminal
+```
+$ ssh -T git@github.com
+```
+You should get a response with the message `Hi {USER_NAME}! You've successfully authenticated, but GitHub does not provide shell access.`
+
