@@ -3,9 +3,9 @@
 ## Table of Contents
 
 * [Getting Started](https://github.com/nashvillefcc/SettingUpGit#getting-started)
-  * [Create GitHub Account](https://github.com/nashvillefcc/SettingUpGit#create-a-github-account)
-  * [Installing Git](https://github.com/nashvillefcc/SettingUpGit#install-homebrew-and-git)
-* [Setting SSH Key](https://github.com/nashvillefcc/SettingUpGit#ssh-key)
+  * [Create GitHub Account](https://github.com/nashvillefcc/SettingUpGit#user-content-1-create-a-github-account)
+  * [Installing Git](https://github.com/nashvillefcc/SettingUpGit#user-content-2-install-homebrew-and-git)
+* [Setting SSH Key](https://github.com/nashvillefcc/SettingUpGit#user-content-3-ssh-key)
 
 ## Getting Started
 
