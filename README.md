@@ -70,7 +70,9 @@ The authenticity of host 'github.com (192.30.252.1)' can't be established.
 RSA key fingerprint is nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
 Are you sure you want to continue connecting (yes/no)?
 ```
-You need to simply type `yes` in the prompt, press return and you should receive this response:
+You need to simply type `yes` in the prompt, press `RETURN` and you should receive this response:
 
 `Hi {USER_NAME}! You've successfully authenticated, but GitHub does not provide shell access.`
+
+You are now ready to start using Git AND GitHub! 👍
 
