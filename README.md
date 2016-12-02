@@ -1,4 +1,4 @@
-# Steps to Setting Up Git &amp; GithHub
+# Steps to Set Up Git &amp; GitHub
 
 ## Table of Contents
 
