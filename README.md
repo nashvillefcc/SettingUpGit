@@ -39,7 +39,7 @@ At this point you should be able to type `git --version` in your terminal and ge
 #### WINDOWS User
 If you are on a Windows machine then I suggest using [GitBash](https://www.git-scm.com/downloads) as your command prompt/terminal instead of [powershell](https://en.wikipedia.org/wiki/PowerShell). It will allow you to use common [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) commands _(although some do not work)_ and use Git commands.
 
-### 3. SSH Key
+## SSH Key
 We now have Git installed and a GitHub account, but we do not have a bridge connecting the two.  That is what we are going to do next through an `SSH key`.
 
 #### Generate SSH Key
