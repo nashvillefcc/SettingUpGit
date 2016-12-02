@@ -53,7 +53,7 @@ Your next step is to [add the key to your GitHub account](https://help.github.co
 _(This process can be intimidating at first but just be sure to read over the directions and follow each step.  Ask for help if you need it!)_
 
 ### Test SSH
-Next we can do a quick [test in the terminal](https://help.github.com/articles/testing-your-ssh-connection/) to see if we can connect to GitHub by typing the following into your terminal
+Next we can do a quick [test in the terminal](https://help.github.com/articles/testing-your-ssh-connection/) to see if we can connect to GitHub by typing the following command.
 ```
 $ ssh -T git@github.com
 ```
