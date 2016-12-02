@@ -6,6 +6,8 @@
   * [Create GitHub Account](https://github.com/nashvillefcc/SettingUpGit#user-content-1-create-a-github-account)
   * [Installing Git](https://github.com/nashvillefcc/SettingUpGit#user-content-2-install-homebrew-and-git)
 * [Setting SSH Key](https://github.com/nashvillefcc/SettingUpGit#user-content-3-ssh-key)
+  * [Generate SSH Key](https://github.com/nashvillefcc/SettingUpGit#generate-ssh-key)
+  * [Add SSH Key to GitHub](https://github.com/nashvillefcc/SettingUpGit#add-ssh-key-to-github)
 
 ## Getting Started
 
@@ -42,10 +44,10 @@ If you are on a Windows machine then I suggest using [GitBash](https://www.git-s
 ## SSH Key
 We now have Git installed and a GitHub account, but we do not have a bridge connecting the two.  That is what we are going to do next through an `SSH key`.
 
-#### Generate SSH Key
+### 1. Generate SSH Key
 Your first step is to [generate a new SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/).  If you follow the steps in this link then you should get everything created locally.
 
-#### Add SSH Key to GitHub
+### 2. Add SSH Key to GitHub
 Your next step is to [add the key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/).  This link should help with the second step of this process.
 
 _(This process can be intimidating at first but just be sure to read over the directions and follow each step.  Ask for help if you need it!)_
